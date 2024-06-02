@@ -5,7 +5,7 @@ import {
 import axios from "axios";
 import validateImage from "./utils/validator";
 
-export default class ImgBB {
+export class ImgBB {
 
     private apiKey: string;
     private apiUrl: string = "https://api.imgbb.com/1/";

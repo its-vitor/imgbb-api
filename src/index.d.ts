@@ -1,5 +1,5 @@
-import ImgBB from "./imgbb";
+import { ImgBB } from "./imgbb";
 
-declare module "imgbb.js" {
+declare module "imgbb-api" {
     export { ImgBB };
 }

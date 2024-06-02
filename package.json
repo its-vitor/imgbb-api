@@ -1,10 +1,11 @@
 {
-  "name": "imgbb",
-  "version": "1.0.0",
-  "description": "",
+  "name": "imgbb-api",
+  "version": "1.0.4",
   "types": "src/index.d.ts",
+  "main": "src/imgbb.ts",
   "author": "its-vitor",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "@types/axios": "^0.14.0",
     "axios": "^1.7.2",
