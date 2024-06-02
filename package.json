@@ -1,0 +1,13 @@
+{
+  "name": "imgbb",
+  "version": "1.0.0",
+  "description": "",
+  "types": "src/index.d.ts",
+  "author": "its-vitor",
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.7.2",
+    "http-status-codes": "^2.3.0"
+  }
+}
